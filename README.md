@@ -51,13 +51,8 @@ To run this application locally, follow these steps:
 - Filter todo task based on their completion status (all, complete, incomplete).
 - Persistance of the todo tasks using `localStorage` to ensure data persistence across page refreshes.
 
-## Architecture
-
-This application follows a microfrontend architecture, with sepearte module for todo list, rending individual todo items and filter controls. Each module operates independently and contributes to the overall functionality of the application.
-
 ## Technologies Used
 
 - React Js
 - TypeScript
-- HTML5 & CSS3
 - Webpack
